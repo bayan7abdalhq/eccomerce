@@ -1,0 +1,17 @@
+.swiper{
+    padding: 50px;
+}
+
+.swiper.swiper-initialized img{
+    width:100px;
+    height: 100px;
+}
+    
+
+.swiper-custom-pagination{
+    color:rgb(255, 0, 212);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-top: 30px;
+}
